@@ -1,3 +1,10 @@
+'''
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+  ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+ZUMBY NSR CC [...]
+'''
+
 from flask import Flask
 from threading import Thread
 
