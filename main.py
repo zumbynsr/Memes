@@ -1,3 +1,10 @@
+'''
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+  ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+ZUMBY NSR CC [...]
+'''
+
 import os
 import time
 import discord
